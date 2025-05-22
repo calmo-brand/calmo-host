@@ -1,13 +1,9 @@
-id,name,imageUrl,hex,category,cost
-1,Rojo Carmín,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/rojo-carmin.jpg,#D32F2F,Primario,
-2,Azul Cobalto,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/azul-cobalto.jpg,#1565C0,Primario,
-3,Amarillo Limón,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/amarillo-limon.jpg,#FDD835,Primario,
-4,Verde Esmeralda,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/verde-esmeralda.jpg,#2E7D32,Secundario,
-5,Naranja Intenso,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/naranja-intenso.jpg,#F57C00,Secundario,
-6,Violeta Púrpura,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/violeta-purpura.jpg,#7B1FA2,Secundario,
-7,Blanco Titanio,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/blanco-titanio.jpg,#FFFFFF,Neutro,
-8,Negro Marfil,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/negro-marfil.jpg,#212121,Neutro,
-9,Gris Neutro,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/gris-neutro.jpg,#9E9E9E,Neutro,
-10,Oro Nacarado,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/oro-nacarado.jpg,#D4AF37,Adicional Nacarado,2000
-11,Plata Nacarada,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/plata-nacarada.jpg,#C0C0C0,Adicional Nacarado,2000
-12,Cobre Nacarado,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/cobre-nacarado.jpg,#B87333,Adicional Nacarado,2000
+id,name,hex,category,imageUrl,type,cost
+1,Rojo Carmín,#D32F2F,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
+2,Rojo Intenso,#C62828,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
+3,Azul Ultramar,#1565C0,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
+4,Azul Cobalto,#0D47A1,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
+5,Amarillo Cadmio,#FBC02D,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
+add-1,Rojo Carmín,#D32F2F,Adicional Básico,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,basic,1000
+add-2,Rojo Intenso,#C62828,Adicional Básico,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,basic,1000
+add-4,Oro Nacarado,#D4AF37,Adicional Nacarado,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,nacarado,2000
