@@ -1,0 +1,13 @@
+id,name,imageUrl,hex,category,cost
+1,Rojo Carmín,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/rojo-carmin.jpg,#D32F2F,Primario,
+2,Azul Cobalto,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/azul-cobalto.jpg,#1565C0,Primario,
+3,Amarillo Limón,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/amarillo-limon.jpg,#FDD835,Primario,
+4,Verde Esmeralda,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/verde-esmeralda.jpg,#2E7D32,Secundario,
+5,Naranja Intenso,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/naranja-intenso.jpg,#F57C00,Secundario,
+6,Violeta Púrpura,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/violeta-purpura.jpg,#7B1FA2,Secundario,
+7,Blanco Titanio,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/blanco-titanio.jpg,#FFFFFF,Neutro,
+8,Negro Marfil,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/negro-marfil.jpg,#212121,Neutro,
+9,Gris Neutro,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/gris-neutro.jpg,#9E9E9E,Neutro,
+10,Oro Nacarado,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/oro-nacarado.jpg,#D4AF37,Adicional Nacarado,2000
+11,Plata Nacarada,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/plata-nacarada.jpg,#C0C0C0,Adicional Nacarado,2000
+12,Cobre Nacarado,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/catalog/colors/cobre-nacarado.jpg,#B87333,Adicional Nacarado,2000
