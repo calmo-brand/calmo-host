@@ -1,9 +1,9 @@
 id,name,hex,category,imageUrl,type,cost
-1,Verde limon,#D32F2F,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
+1,Verde limon,#D32F2F,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Naranja.png,regular,
 2,Naranja,#F27329,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Naranja.png,regular,
 3,Azul Ultramar,#1565C0,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,regular,
-4,Azul Cobalto,#0D47A1,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
-5,Amarillo Cadmio,#FBC02D,Primario,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,regular,
-add-1,Rojo Carmín,#D32F2F,Adicional Básico,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,basic,1000
-add-2,Rojo Intenso,#C62828,Adicional Básico,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,basic,1000
-add-4,Oro Nacarado,#D4AF37,Adicional Nacarado,https://th.bing.com/th/id/R.44bef221997a5eae0c628b6afceeeb92?rik=K1%2br35Pluf%2bC%2fw&pid=ImgRaw&r=0,nacarado,2000
+4,Azul Cobalto,#0D47A1,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Naranja.png,regular,
+5,Amarillo Cadmio,#FBC02D,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,regular,
+add-1,Rojo Carmín,#D32F2F,Adicional Básico,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,basic,1000
+add-2,Rojo Intenso,#C62828,Adicional Básico,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,basic,1000
+add-4,Oro Nacarado,#D4AF37,Adicional Nacarado,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,nacarado,2000
