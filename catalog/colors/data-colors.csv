@@ -2,7 +2,7 @@ id,name,hex,category,imageUrl,type,cost
 1,Blanco,#FFFFFF,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/1%20BLANCO.png,regular,
 2,Blanco Hueso,#F2E9BD,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/2%20BLANCO%20HUESO.png,regular,
 3,Blanco Lunar,#F2E5A0,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/3%20BLANCO%20LUNAR.png,regular,
-4,Amarillo Sol,#F2CB07,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/4%20AMARILLO%20SOL.png,regular,
+4,Amarillo Primario,#F2CB07,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/4%20AMARILLO%20PRIMARIO.png,regular,
 5,Amarillo Canario,#E9B514,Primario,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/5%20AMARILLO%20CANARIO.png,regular,
 add-1,Rojo Carmín,#1565C0,Adicional Básico,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,basic,1000
 add-2,Rojo Intenso,#1565C0,Adicional Básico,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/colors/Azul.png,basic,1000
