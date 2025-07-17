@@ -1,6 +1,7 @@
-id,imageUrl,link
-1,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%201.jpg,https://www.calmoexperience.com/yesos
-2,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%202.jpg,https://www.calmoexperience.com/colores
-3,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%203.jpg,https://www.calmoexperience.com/experiencias
-4,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%204.jpg,https://www.calmoexperience.com/yesos?categoria=animales
-5,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%205.jpg,https://www.calmoexperience.com/yesos?figura=conejo&inspiracion=3
+id,imageUrl,link,format
+1,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%201.jpg,https://www.calmoexperience.com/yesos,web
+2,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%202.jpg,https://www.calmoexperience.com/colores,web
+3,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%203.jpg,https://www.calmoexperience.com/experiencias,web
+4,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%204.jpg,https://www.calmoexperience.com/yesos?categoria=animales,web
+5,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/BANNER%205.jpg,https://www.calmoexperience.com/yesos?figura=conejo&inspiracion=3,web
+6,https://raw.githubusercontent.com/calmo-brand/calmo-host/main/img/index/MantelDiagonal.jpg,https://www.calmoexperience.com/yesos?figura=conejo&inspiracion=4,mobile
